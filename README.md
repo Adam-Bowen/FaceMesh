@@ -1,6 +1,6 @@
 # FaceMesh
 
-This project implements a real-time face mesh detection using OpenCV and MediaPipe libraries. It captures video from your webcam, detects facial landmarks, and displays them on a black background.
+This project implements a real-time face mesh detection using OpenCV and MediaPipe libraries. It captures video from your webcam, detects facial landmarks, and displays them on a black background. 🕵️‍♂️
 
 ## Installation
 
